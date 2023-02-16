@@ -33,7 +33,7 @@ a {
 
 /*about container*/
 #about-container {
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 #about-row {
@@ -42,4 +42,13 @@ a {
 
 #about-pic {
     border: 2px solid #A8D8FF;
+}
+
+/*contact container*/
+#contact-container {
+    margin-top: 50px;
+}
+
+form {
+    margin-top: 20px;
 }
