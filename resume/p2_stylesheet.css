@@ -1,0 +1,45 @@
+/*PROJECT 2 STYLESHEET*/
+body {
+    background-color: ghostwhite
+}
+
+
+/*navbar*/
+nav {
+    background-color: ghostwhite;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*jumbotron*/
+#jumbo-container {
+    border: 2px solid black;
+    height: 20em;
+    display: flex;
+    background-color: #A8D8FF;
+}
+
+#jumbo-name {
+    position: relative;
+    top: 115px;
+}
+
+#jumbo-position {
+    position: relative; 
+    top: 25px;
+}
+
+/*about container*/
+#about-container {
+    margin-top: 20px;
+}
+
+#about-row {
+    margin-top: 50px;
+}
+
+#about-pic {
+    border: 2px solid #A8D8FF;
+}
